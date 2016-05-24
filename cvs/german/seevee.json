@@ -1,1 +1,32 @@
-{}
+{
+    "firstname": "Daniel",
+    "lastname": "Bartl",
+    "dateofbirth": "1980-05-01",
+    "jobtitle": "Agile Zwerg",
+    "contact": {
+        "mobile": "+49 89 1",
+        "email": "daniel.bartl@comsysto.com",
+        "address": {
+            "street": "Tumblingerstr. 3",
+            "postalcode": "80337",
+            "city": "München"
+        }
+    },
+    "qualification": "Certified Agile Zwerg",
+    "qualificationalinstitution": "Schneewittchen und ein agiles Team",
+    "languages": [],
+    "certifications": [],
+    "topskills": [],
+    "aboutme": [],
+    "experience": [],
+    "methodicalskills": [],
+    "industryskills": [],
+    "itskills": [],
+    "projecthistory": [],
+    "template": {
+        "id": "seevee",
+        "logo": "logo",
+        "url": "https://www.seevee.io"
+    },
+    "locale": "de"
+}
