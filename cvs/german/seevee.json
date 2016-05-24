@@ -21,7 +21,9 @@
     "experience": [],
     "methodicalskills": [],
     "industryskills": [],
-    "itskills": [],
+    "itskills": [
+        "Java"
+    ],
     "projecthistory": [],
     "template": {
         "id": "seevee",
