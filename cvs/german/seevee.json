@@ -24,7 +24,10 @@
     ],
     "aboutme": [],
     "experience": [],
-    "methodicalskills": [],
+    "methodicalskills": [
+        "Scrum",
+        "Kanban"
+    ],
     "industryskills": [],
     "itskills": [
         "Java",
