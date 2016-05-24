@@ -16,7 +16,12 @@
     "qualificationalinstitution": "Schneewittchen und ein agiles Team",
     "languages": [],
     "certifications": [],
-    "topskills": [],
+    "topskills": [
+        {
+            "name": "Java",
+            "percentage": "63"
+        }
+    ],
     "aboutme": [],
     "experience": [],
     "methodicalskills": [],
